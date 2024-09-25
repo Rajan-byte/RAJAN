@@ -219,11 +219,11 @@ nav ul{
     height: 100vh;
     padding-top: 5%;
     z-index: 2;
-    transition: right 0.10s;
+    transition: right 0.3s;
 }
 nav ul li{
     display: block;
-    margin: 50px;
+    margin: 10px 0;
 }
 nav ul .fas{
     position: absolute;
