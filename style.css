@@ -217,7 +217,7 @@ nav ul{
     right: -200px;
     width: 200px;
     height: 100vh;
-    padding-top: 5%;
+    padding-top: 50px;
     z-index: 2;
     transition: right 0.10s;
 }
@@ -227,7 +227,7 @@ nav ul li{
 }
 nav ul .fas{
     position: absolute;
-    top: 5px;
+    top: 25px;
     left: 25px;
     cursor: pointer;
 }
