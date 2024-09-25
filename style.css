@@ -214,7 +214,7 @@ nav ul{
     background: gray;
     position: fixed;
     top: 0%;
-    right: 50px;
+    right: -200px;
     width: 200px;
     height: 100vh;
     padding-top: 5%;
@@ -223,7 +223,7 @@ nav ul{
 }
 nav ul li{
     display: block;
-    margin: 20px;
+    margin: 50px;
 }
 nav ul .fas{
     position: absolute;
