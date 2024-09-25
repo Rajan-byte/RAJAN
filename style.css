@@ -205,7 +205,7 @@ nav .fas{
     display: none;
 }
 /*-------css for small screen-----*/
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 600px){
     nav .fas{
         display: block;
         font-size: 25px;
