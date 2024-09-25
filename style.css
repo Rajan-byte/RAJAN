@@ -73,7 +73,7 @@ font-size: 30px;
 margin-top: 10%;
 }
 .about-col-1 p{
-    font-size: 20px;
+    font-size: 22px;
 }
 .tab-titles
 {
@@ -82,7 +82,7 @@ margin-top: 10%;
 }
 .tab-links{
     margin-right: 50px;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
     cursor: pointer;
     position: relative;
@@ -106,7 +106,7 @@ margin: 10px 0;
 }
 .tab-contents ul li span {
     color: red;
-    font-size: 14px;
+    font-size: 17px;
 }
 .tab-contents{
     display: none;
