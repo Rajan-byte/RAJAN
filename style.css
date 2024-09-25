@@ -213,17 +213,17 @@ nav .fas{
 nav ul{
     background: gray;
     position: fixed;
-    top: 0%;
+    top: 0;
     right: -200px;
     width: 200px;
     height: 100vh;
-    padding-top: 5%;
+    padding-top: 50px;
     z-index: 2;
     transition: right 0.3s;
 }
 nav ul li{
     display: block;
-    margin: 10px 0;
+    margin: 25px;
 }
 nav ul .fas{
     position: absolute;
