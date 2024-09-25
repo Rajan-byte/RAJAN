@@ -217,9 +217,9 @@ nav ul{
     right: -200px;
     width: 200px;
     height: 100vh;
-    padding-top: 50px;
+    padding-top: 5%;
     z-index: 2;
-    transition: right 0.3s;
+    transition: right 0.10s;
 }
 nav ul li{
     display: block;
